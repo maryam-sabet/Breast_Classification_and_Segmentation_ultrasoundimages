@@ -1,3 +1,3 @@
-# Breast_Classification_and_Segmentation_ultrasoundimages
+# Breast Classification and Segmentation ultrasound images
 
 Kaggel Dataset : https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
